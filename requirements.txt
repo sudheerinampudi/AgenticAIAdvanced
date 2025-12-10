@@ -1,0 +1,20 @@
+# Requirements for the project
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# vector database
+chromadb
+
+# llms
+langchain-openai
+langchain-groq
+
+# Environment management
+python-dotenv
+typesense
+
+# Jupyter
+notebook
+ipykernel
