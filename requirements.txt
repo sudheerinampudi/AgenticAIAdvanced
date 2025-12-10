@@ -10,6 +10,7 @@ chromadb
 # llms
 langchain-openai
 langchain-groq
+langchain_google_genai
 
 # Environment management
 python-dotenv
